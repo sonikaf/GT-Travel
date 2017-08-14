@@ -1,3 +1,3 @@
 # TravelReview
 
-MySQL database for an application where people review travel destinations.
+Travel review application that allows users to rate and leave comments about different destinations and search based on location
